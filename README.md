@@ -4,6 +4,12 @@ Reproduce an issue involving mathjs and jest
 Originally reported in:
 https://github.com/josdejong/mathjs/issues/1898
 
+Environment:
+```
+> node -v
+v12.16.1
+```
+
 Steps to reproduce:
 ```
 yarn install
